@@ -1,0 +1,224 @@
+.searchBlue{
+    background-color: #2395FF ;
+    height: 230px;
+    width: 100%;
+    border-radius: 0px 0px 20px 20px;
+}
+
+.whiteplane{
+    margin-top: 70px;
+    height: 50px;
+    margin-left: 120px;
+    margin-right: 30px;
+}
+
+.pFromto{
+    color: #FFFFFF;
+    font-size: 14px;
+    margin-right: 200px;
+}
+
+.inputFormto{
+    border: none;
+    background-color: transparent;
+    color: #FFFFFF;
+    font-size: 16px;
+    font-weight: bold;
+    width: 120px;
+}
+
+.inputFormto:focus{
+    outline: none;
+}
+
+.inputFormto::-webkit-input-placeholder { /* WebKit, Blink, Edge */
+    color:#FFFFFF;
+}
+.inputFormto::-ms-input-placeholder{ /* Microsoft Edge */
+    color: #FFFFFF;
+}
+.inputFormto::placeholder{ /* Microsoft Edge */
+    color:#FFFFFF;
+}
+.inputToForm::-webkit-input-placeholder { /* WebKit, Blink, Edge */
+    color:#FFFFFF;
+}
+.inputToForm::-ms-input-placeholder{ /* Microsoft Edge */
+    color: #FFFFFF;
+}
+.inputToForm::placeholder{ /* Microsoft Edge */
+    color:#FFFFFF;
+}
+
+.inputToForm{
+    border: none;
+    background-color: transparent;
+    color: #FFFFFF;
+    font-size: 16px;
+    font-weight: bold;
+    width: 120px;
+    margin-right: 530px;
+}
+
+.inputToForm:focus{
+    outline: none;
+}
+
+.btncostum{
+    color: #FFFFFF;
+    font-weight: bold;
+    font-size: 16px;  
+    border: none;
+    background-color: transparent;
+}
+
+.btncostum:hover{
+    color: #FFFFFF;
+    font-weight: bold;
+    font-size: 16px;  
+    outline: 1px;
+}
+
+
+.pDay{
+    color: #FFFFFF;
+    font-size: 12px;
+}
+
+.pPassanger{
+    color: #FFFFFF;
+    font-size: 12px;
+}
+
+.pEconomy{
+    color: #FFFFFF;
+    font-size: 12px;
+}
+
+.secFilter{
+    font-size: 24px;
+    font-weight: bold;
+}
+
+.secReset{
+    font-size: 16px;
+    font-weight: bold;
+    color: #2395FF;
+}
+
+.secTicket{
+    font-size: 24px;
+    font-weight: bold;
+}
+
+.secFound{
+    font-size: 18px;
+    color: #979797 ;
+    margin-left: -35px;
+}
+
+.secSort{
+    font-size: 16px;
+    font-weight: bold;
+}
+
+.leftside{
+    height: max-content;
+    background-color: #FFFFFF;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+    border-radius: 20px;
+    padding: 28px;
+}
+
+.arrowbtm{
+    height: 12px;
+}
+
+.titleFiltercollapse{
+    font-size: 16px;
+    font-weight: bold;
+    text-align: start;
+    border: none;
+    background-color: transparent;
+}
+
+.btnarrow{
+    border: none;
+    background-color: transparent;
+}
+
+.valuecollapse{
+    font-size: 14px;
+}
+.setPrice{
+    color: #6B6B6B;
+    font-size: 12px;
+    
+}
+
+.inputPriceticket{
+    border: none;
+    color: #2395FF;
+    font-size: 16px;
+    font-weight: bold;
+    width: 80px;
+}
+
+.inputPriceticket:active{
+    border: none !important;
+}
+
+.textDollar{
+    color: #2395FF;
+    font-size: 16px;
+    font-weight: bold;
+}
+
+.inputPriceticket::-webkit-input-placeholder { /* WebKit, Blink, Edge */
+    color:#2395FF;
+}
+.inputPriceticket::-ms-input-placeholder{ /* Microsoft Edge */
+    color: #2395FF;
+}
+.inputPriceticket::placeholder{ /* Microsoft Edge */
+    color:#2395FF;
+}
+
+
+@media only screen and (max-width: 720px) {
+    .whiteplane{
+        height: 20px;
+        margin-right: -150px ;
+        margin-top: 20px;
+    }
+    .pFromto{
+        margin-top: -70px;
+    }
+    .setInput{
+        margin-top: -30px;
+    }
+    .btncostum{
+        margin-left: -570px;
+    }
+    .searchBlue{
+        height: max-content;
+    }
+    .secReset{
+        margin-left: 250px;
+    }
+    .secTicket{
+        display: none;
+    }
+    .secFound{
+        margin-left: 10px;
+    }
+    .secSort{
+        margin-left: 120px;
+    }
+
+    .leftside{
+        position: absolute;
+        visibility:hidden;
+        display: none;
+    }
+}

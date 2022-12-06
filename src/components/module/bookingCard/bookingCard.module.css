@@ -1,0 +1,93 @@
+.CardBooking{
+    background-color: #FFFFFF;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+    padding: 28px;
+    height: 223px;
+    margin-bottom: 25px;
+    border-radius: 15px;
+    position: relative;
+}
+
+.date{
+    color: #000000;
+    font-size: 14px;
+}
+
+.codePlane{
+    color: #979797;
+    font-size: 18px;
+}
+
+.status{
+    color: #7A7A7A ;
+    font-size: 15px;
+    font-weight: bold;
+}
+
+/* .statuspayment{
+    background-color: #FF7F23 ; 
+    height: 36px; 
+    border-radius: 5px;
+    justify-items: center;
+    margin-top: -15px;
+} */
+
+.setStatus{
+    background-color: #4FCF4D ; 
+    height: 36px; 
+    border-radius: 5px;
+    font-size: 15px;
+    font-weight: bold;
+    color: #FFFFFF ;
+    margin-top: 5px;
+    text-align: center;
+    align-items: center !important;
+}
+
+.setStatus2{
+    background-color: #FF7F23 ; 
+    height: 36px; 
+    border-radius: 5px;
+    font-size: 15px;
+    font-weight: bold;
+    color: #FFFFFF ;
+    margin-top: 5px;
+    text-align: center;
+}
+
+.detailcustom{
+    position: absolute;
+    right: 10px;
+}
+
+.setDetail{
+    color: #2395FF;
+    font-size: 16px;
+    font-weight: bold;
+}
+
+.arrowbtm{
+    color: #2395FF;
+    position: absolute;
+    right: 80px;
+    bottom: 20px;
+}
+
+@media only screen and (max-width: 720px) {
+   .iconsFlight img{
+    margin-right: 15px;
+   }
+
+   .statuspayment{
+    margin-left: 10px;
+    width: 170px;
+   }
+
+   .setDetail{
+    margin-left: -100px;
+   }
+
+   .arrowbtm{
+    display: none;
+   }  
+}

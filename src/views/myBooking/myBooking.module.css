@@ -1,0 +1,42 @@
+.bookinghistory{
+    background-color: #FFFFFF;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+    height: 115px;
+    border-radius: 15px;
+    padding: 20px;
+    margin-bottom: 40px;
+    margin-left: 0 !important; 
+    margin-right: 0 !important;
+}
+
+.title{
+    color: #2395FF;
+}
+
+.subtitle{
+    font-size: 24px;
+    font-weight: bold;
+}
+
+.history{
+    color: #2395FF; 
+    text-align: right;
+    font-size: 17px;
+    font-weight: bold;
+    
+}
+
+@media only screen and (max-width: 720px) {
+    .leftside{
+        display: none;
+    }
+
+    .bookinghistory{
+        margin-top: -47px;
+    }
+
+    .history{
+        margin-left: 55px;
+    }
+    
+}

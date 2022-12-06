@@ -1,0 +1,106 @@
+.cardProfile{
+    /* background-color: pink; */
+    background-color: #FFFFFF;
+    padding: 28px;
+    width: 100%;
+    height: max-content;
+    border-radius: 15px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+    /* border: 1px solid #C4C4C4; */
+}
+
+.picProfile img{
+    border: 10px solid #2395FF ;
+    border-radius: 100%;
+}
+
+.add{
+    margin-top: -30px;
+    text-align: end;
+    color: #2395FF;
+}
+
+.xcard{
+    height: 80px ;
+    padding: 10px;
+    background-color: #2395FF ;
+    border-radius: 15px;
+}
+
+.numCard{
+    color: #FFFFFF;
+}
+
+.cardX{
+    color: #AEFAFF;
+}
+
+.xMoney{
+    color: #AEFAFF;
+    margin-top: -40px;
+    text-align: end;
+}
+
+
+
+
+.iconprofile{
+    margin-top: 7px;
+    height: 20px;
+    width: 20px;
+}
+
+.setProfile{ 
+    margin-top: 40px;
+    font-size: 20px;
+    font-weight: bold;
+    color: #2395FF;
+}
+
+.iconstar{
+    margin-top: 7px;
+    height: 20px;
+    width: 20px;
+} 
+
+.setMyreview{
+    font-size: 20px;
+    margin-top: 10px;
+    font-weight: bold;
+    color: #000000;
+}
+
+.iconsettings{
+    margin-top: 7px;
+    height: 20px;
+    width: 20px;
+} 
+
+.setSettings{
+    font-size: 20px;
+    margin-top: 10px;
+    font-weight: bold;
+    
+    
+}
+
+.textSettings{
+    color: #000000;
+    text-decoration: none !important;
+}
+
+
+.iconlogout{
+    margin-top: 7px;
+    height: 20px;
+    width: 20px;
+} 
+
+.setLogout{
+    font-size: 20px;
+    margin-top: 10px;
+    font-weight: bold;
+    color: #F24545;
+    border: none;
+    background-color: transparent;
+}

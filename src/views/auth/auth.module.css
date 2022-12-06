@@ -1,0 +1,84 @@
+/* LOGIN */
+.leftside img{
+  width: 100%;
+}
+
+.titleLogo{
+  
+  font-size: 24px;
+  color: #414141;
+  font-weight: bold;
+}
+
+.title{
+  margin-top: 120px;
+  font-size: 36px;
+  font-weight: bold;
+}
+
+.formInput{
+  border-top: none !important;
+    border-left: none !important;
+    border-right: none !important;
+    border-color: #D2C2FFAD !important;
+    border-radius: 0 !important;
+}
+.formInput:focus{
+  outline: none !important;
+}
+
+.btnlogin{
+  background-color: #2395FF;
+  color: #FFFFFF;
+  border: none;
+  padding: 15px;
+  font-weight: bold;
+  border-radius: 10px;
+}
+
+.forgot{
+  font-size: 16px;
+  color: #595959;
+}
+.reset{
+  color: #2395FF;
+  font-size: 16px;
+}
+
+.orSign{
+  text-align: center;
+  font-size: 14px;
+  color: #595959;
+}
+
+
+.googleIcon {
+  border: 1px solid #2395ff;
+  padding: 10px;
+  border-radius: 6px;
+  cursor: pointer;
+}
+
+.fbIcon {
+  border: 1px solid #2395ff;
+  padding: 10px;
+  border-radius: 6px;
+  cursor: pointer;
+}
+
+/* register */
+.btnsignin{
+  color: #2395FF;
+  background-color: #FFFFFF;
+  border-color: #2395FF;
+  padding: 15px;
+  font-weight: bold;
+  border-radius: 10px;
+}
+
+@media only screen and (max-width: 720px) {
+  .title{
+    margin-top: 50px;
+  }
+  
+}

@@ -1,0 +1,114 @@
+.top10_container {
+  margin-top: 30px;
+}
+
+.swiper {
+  position: relative;
+  height: 300px;
+  /* overflow: visible !important; */
+}
+
+.swiper .swiper_wrapper {
+  overflow: hidden !important;
+}
+
+.swiper .swiper-slide {
+  height: 150px;
+  width: 150px !important;
+  background: none;
+  border-radius: 50%;
+  border: 5px solid white;
+  /* overflow: hidden; */
+  /* padding: 10px; */
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  cursor: pointer;
+
+  -webkit-animation-duration: 1s;
+  animation-duration: 1s;
+  -webkit-animation-fill-mode: both;
+  animation-fill-mode: both;
+  -webkit-animation-timing-function: ease-in-out;
+  animation-timing-function: ease-in-out;
+}
+
+.swiper .swiper-slide:hover {
+  animation-name: bounce;
+  -moz-animation-name: bounce;
+}
+
+.swiper .swiper-slide p {
+  position: absolute;
+  bottom: -70px;
+  text-transform: uppercase;
+  font-size: 18px;
+  color: #fff;
+}
+
+.swiper-button-next {
+  width: 50px !important;
+  height: 50px !important;
+  background: #fff;
+  margin-top: 100px !important;
+  margin-right: 350px;
+  display: inline-block;
+  border-radius: 100%;
+
+  /* position: absolute !important;
+    bottom: -100px !important; */
+}
+
+.swiper-button-next::before {
+  content: '>';
+  position: absolute;
+  font-size: 30px;
+}
+
+.swiper-button-next::after {
+  display: none;
+}
+
+.swiper-button-prev {
+  width: 50px !important;
+  height: 50px !important;
+  background: #fff;
+  margin-top: 100px !important;
+  margin-left: 300px;
+  display: inline-block;
+  border-radius: 100%;
+}
+
+.swiper-button-prev::before {
+  content: '<';
+  position: absolute;
+  font-size: 30px;
+}
+
+.swiper-button-prev::after {
+  display: none;
+}
+
+@keyframes bounce {
+  0%,
+  100%,
+  20%,
+  50%,
+  80% {
+    -webkit-transform: scale(1);
+    -ms-transform: scale(1);
+    transform: scale(1);
+  }
+
+  40% {
+    -webkit-transform: scale(1.1);
+    -ms-transform: scale(1.1);
+    transform: scale(1.1);
+  }
+
+  60% {
+    -webkit-transform: scale(1.2);
+    -ms-transform: scale(1.2);
+    transform: scale(1.2);
+  }
+}
