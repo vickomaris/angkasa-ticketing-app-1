@@ -8,6 +8,7 @@
 <p>Ankasa ticketing is a web application that has a feature for checking departure schedules for various flights from different airlines. Users can make bookings and make payments online. In the application developed with this team, I act as a full-stack engineer who manages various databases, provides data for the front-end division, and also migrates the data to the display website. The express JS technology was used to build the back end of this application. </p>
 
 <hr />
+
 ## General Information
 ### Build with
 <ul>
