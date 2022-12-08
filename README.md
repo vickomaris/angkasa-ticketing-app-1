@@ -99,19 +99,19 @@
   <summary>
     Find ticket page
   </summary>
-<img src="https://github.com/ainurcoding/angkasa-ticketing-app/blob/master/ss/find%20my%20ticket%20page.png" alt="login Page" />
+<img src="https://github.com/ainurcoding/angkasa-ticketing-app/blob/master/ss/Flight%20search%20new.jpeg" alt="login Page" />
 </details>
 <details>
   <summary>
     Flight booking page
   </summary>
-<img src="https://github.com/ainurcoding/angkasa-ticketing-app/blob/master/ss/flight%20booking%20page%20(2).png" alt="login Page" />
+<img src="https://github.com/ainurcoding/angkasa-ticketing-app/blob/master/ss/FLight%20booking%20new.jpeg" alt="login Page" />
 </details>
 <details>
   <summary>
     My booking list page
   </summary>
-<img src="https://github.com/ainurcoding/angkasa-ticketing-app/blob/master/ss/my%20booking%20page.png" alt="login Page" />
+<img src="https://github.com/ainurcoding/angkasa-ticketing-app/blob/master/ss/My%20booking%20list%20new.jpeg" alt="login Page" />
 </details>
 <details>
   <summary>
@@ -123,13 +123,13 @@
   <summary>
     My profile
   </summary>
-<img src="https://github.com/ainurcoding/angkasa-ticketing-app/blob/master/ss/profile-user%20page.png" alt="login Page" />
+<img src="https://github.com/ainurcoding/angkasa-ticketing-app/blob/master/ss/Profile%20user%20new.jpeg" alt="login Page" />
 </details>
 <details>
   <summary>
     My profile settings
   </summary>
-<img src="https://github.com/ainurcoding/angkasa-ticketing-app/blob/master/ss/setting%20profile%20user.png" alt="login Page" />
+<img src="https://github.com/ainurcoding/angkasa-ticketing-app/blob/master/ss/Update%20profile%20user%20new.jpeg" alt="login Page" />
 </details>
 <hr />
 
