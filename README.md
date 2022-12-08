@@ -1,6 +1,6 @@
 
 # angkasa-ticketing-app
-<div align="center"><img src="https://github.com/ainurcoding/angkasa-ticketing-app/blob/master/src/assets/logo.svg" alt='logo ankasa'/></div>
+<div align="center"><img src="https://github.com/ainurcoding/angkasa-ticketing-app/blob/master/src/assets/logo.svg" alt='logo ankasa' height="150" width="150"/></div>
 
 <hr/>
 
