@@ -76,54 +76,70 @@
   <summary>
     Login Page
   </summary>
-<img src="ss/login_page.png" alt="login Page" />
+<img src="https://github.com/ainurcoding/angkasa-ticketing-app/blob/master/ss/login%20page.png" alt="login Page" />
 </details>
 <details>
   <summary>
     Register Page
   </summary>
-<img src="ss/register_page.png" alt="login Page" />
+<img src="https://github.com/ainurcoding/angkasa-ticketing-app/blob/master/ss/regist%20page.png" alt="login Page" />
 </details>
 <details>
   <summary>
     Landing Page
   </summary>
-<img src="ss/landing_page.png" alt="login Page" />
+<img src="https://github.com/ainurcoding/angkasa-ticketing-app/blob/master/ss/landing%20page.png" alt="login Page" />
 </details>
 <details>
   <summary>
-    Add recipe Page
+    Find ticket page
   </summary>
-<img src="ss/add recipe_page.png" alt="login Page" />
+<img src="https://github.com/ainurcoding/angkasa-ticketing-app/blob/master/ss/find%20my%20ticket%20page.png" alt="login Page" />
 </details>
 <details>
   <summary>
-    Profile Page
+    Flight booking page
   </summary>
-<img src="ss/profile_page.png" alt="login Page" />
+<img src="https://github.com/ainurcoding/angkasa-ticketing-app/blob/master/ss/flight%20booking%20page%20(2).png" alt="login Page" />
 </details>
 <details>
   <summary>
-    My recipe Page
+    My booking list page
   </summary>
-<img src="ss/my recipe_page.png" alt="login Page" />
+<img src="https://github.com/ainurcoding/angkasa-ticketing-app/blob/master/ss/my%20booking%20page.png" alt="login Page" />
 </details>
 <details>
   <summary>
-    Detail recipe Page
+    Detail my booking Page
   </summary>
-<img src="ss/detail recipe_page.png" alt="login Page" />
+<img src="https://github.com/ainurcoding/angkasa-ticketing-app/blob/master/ss/detail%20booking%20page.png" alt="login Page" />
 </details>
 <details>
   <summary>
-    Update recipe Page
+    My profile
   </summary>
-<img src="ss/update_page.png" alt="login Page" />
+<img src="https://github.com/ainurcoding/angkasa-ticketing-app/blob/master/ss/profile-user%20page.png" alt="login Page" />
+</details>
+<details>
+  <summary>
+    My profile settings
+  </summary>
+<img src="https://github.com/ainurcoding/angkasa-ticketing-app/blob/master/ss/setting%20profile%20user.png" alt="login Page" />
 </details>
 <hr />
 
 ### Demo Application
 <p>Visit this link for app demo <a href='https://mama-recipe-kappa.vercel.app/'>mama recipe</a></p>
+<hr />
+
+### Contributor
+<ul>
+  <li><a href='https://github.com/ainurcoding'>Ainur Ridwan as a Fullstack Developer</a></li>
+  <li><a href='https://github.com/brndnwjy'>Brandon Wijaya as a Fullstack Developer</a></li>
+  <li><a href='https://github.com/vickomaris'>Vicko Maris Septiadi as a Frontend Developer</a></li>
+  <li><a href='https://github.com/Iqbalapredo'>Muhammad Iqbal Aprido as a Frontend Developer</a></li>
+  <li><a href='https://github.com/sukron21'>Rahmat Furqon as a Frontend Developer</a></li>
+</ul>
 <hr />
 
 ### For More Information
