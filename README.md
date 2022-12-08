@@ -16,6 +16,8 @@
 </ul>
 
 ### Structure Folder 
+
+<a href="https://github.com/ainurcoding/angkasa-ticketing-api">Visit backend repository</a>
 <p>Backend</p>
 <ul>
   <li>public</li>
@@ -41,7 +43,7 @@
   <ul>
     <li>assets ||<span><b><i>You can store various needs for this website, such as images, styles, javascript, and others.</i></b></span></li>
     <li>components ||<span><b><i>This folder is for storing layouts, such as Navbar.</i></b></span></li>
-    <li>pages ||<span><b><i>This folder is the main folder in the website display for this application.</i></b></span></li>
+    <li>views ||<span><b><i>This folder is the main folder in the website display for this application.</i></b></span></li>
     <li>redux ||<span><b><i>Redux to set the global state, as well as the use of user data.</i></b></span></li>
     <li>router ||<span><b><i>The router is used to set the endpoint of this application.</i></b></span></li>
   </ul>
