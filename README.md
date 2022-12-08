@@ -1,6 +1,6 @@
 
 # angkasa-ticketing-app
-<div align="center"><img src="logo_mama_recipe.png"/></div>
+<div align="center"><img src="https://github.com/ainurcoding/angkasa-ticketing-app/blob/master/src/assets/logo.svg" alt='logo ankasa'/></div>
 
 <hr/>
 
