@@ -144,7 +144,7 @@
   <li><a href='https://github.com/brndnwjy'>Brandon Wijaya as a Fullstack Developer</a></li>
   <li><a href='https://github.com/vickomaris'>Vicko Maris Septiadi as a Frontend Developer</a></li>
   <li><a href='https://github.com/Iqbalapredo'>Muhammad Iqbal Aprido as a Frontend Developer</a></li>
-  <li><a href='https://github.com/sukron21'>Rahmat Furqon as a Frontend Developer</a></li>
+  <li><a href='https://github.com/sukron21'>Rahmat Furqon as a Fullstack Developer</a></li>
 </ul>
 <hr />
 
