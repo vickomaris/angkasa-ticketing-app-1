@@ -338,6 +338,8 @@
 
   width: 206px;
   height: 262px;
+
+  background-image: url("../../assets/bali2.jpg");
 }
 
 .card:hover .cardBackground {
@@ -348,9 +350,140 @@
   filter: brightness(0.5) saturate(0) contrast(1.2) blur(20px);
 }
 
+.cardBackground2 {
+  background-size: cover;
+  background-position: center;
+  border-radius: var(--spacing-l);
+  bottom: 0;
+  filter: brightness(0.75) saturate(1.2) contrast(0.85);
+  left: 0;
+  position: absolute;
+  right: 0;
+  top: 0;
+  transform-origin: center;
+  transform: scale(1) translateZ(0);
+  transition: filter 200ms linear, transform 200ms linear;
+  border-radius: 25px;
+
+  width: 206px;
+  height: 262px;
+  margin-left: 5px;
+  background-image: url("../../assets/japan.png");
+}
+
+.card:hover .cardBackground2 {
+  transform: scale(1.05) translateZ(0);
+}
+
+.cardGrid:hover > .card:not(:hover) .cardBackground2 {
+  filter: brightness(0.5) saturate(0) contrast(1.2) blur(20px);
+}
+
+.cardBackground3 {
+  background-size: cover;
+  background-position: center;
+  border-radius: var(--spacing-l);
+  bottom: 0;
+  filter: brightness(0.75) saturate(1.2) contrast(0.85);
+  left: 0;
+  position: absolute;
+  right: 0;
+  top: 0;
+  transform-origin: center;
+  transform: scale(1) translateZ(0);
+  transition: filter 200ms linear, transform 200ms linear;
+  border-radius: 25px;
+
+  width: 206px;
+  height: 262px;
+  margin-left: 5px;
+  background-image: url("../../assets/sydney.jpg");
+}
+
+.card:hover .cardBackground3 {
+  transform: scale(1.05) translateZ(0);
+}
+
+.cardGrid:hover > .card:not(:hover) .cardBackground3 {
+  filter: brightness(0.5) saturate(0) contrast(1.2) blur(20px);
+}
+
+.cardBackground4 {
+  background-size: cover;
+  background-position: center;
+  border-radius: var(--spacing-l);
+  bottom: 0;
+  filter: brightness(0.75) saturate(1.2) contrast(0.85);
+  left: 0;
+  position: absolute;
+  right: 0;
+  top: 0;
+  transform-origin: center;
+  transform: scale(1) translateZ(0);
+  transition: filter 200ms linear, transform 200ms linear;
+  border-radius: 25px;
+
+  width: 206px;
+  height: 262px;
+  margin-left: 5px;
+  background-image: url("../../assets/paris.jpg");
+}
+
+.card:hover .cardBackground4 {
+  transform: scale(1.05) translateZ(0);
+}
+
+.cardGrid:hover > .card:not(:hover) .cardBackground4 {
+  filter: brightness(0.5) saturate(0) contrast(1.2) blur(20px);
+}
+
+.cardBackground5 {
+  background-size: cover;
+  background-position: center;
+  border-radius: var(--spacing-l);
+  bottom: 0;
+  filter: brightness(0.75) saturate(1.2) contrast(0.85);
+  left: 0;
+  position: absolute;
+  right: 0;
+  top: 0;
+  transform-origin: center;
+  transform: scale(1) translateZ(0);
+  transition: filter 200ms linear, transform 200ms linear;
+  border-radius: 25px;
+
+  width: 206px;
+  height: 262px;
+  margin-left: 5px;
+  background-image: url("../../assets/spain.png");
+}
+
+.card:hover .cardBackground5 {
+  transform: scale(1.05) translateZ(0);
+}
+
+.cardGrid:hover > .card:not(:hover) .cardBackground5 {
+  filter: brightness(0.5) saturate(0) contrast(1.2) blur(20px);
+}
+
+
+
+/* 
 .cardBackground {
   background-image: url("../../assets/bali.jpg");
 }
+.cardBackground2 {
+  background-image: url("../../assets/bali.jpg");
+}
+.cardBackground3 {
+  background-image: url("../../assets/bali.jpg");
+}
+.cardBackground4 {
+  background-image: url("../../assets/bali.jpg");
+}
+.cardBackground5 {
+  background-image: url("../../assets/bali.jpg");
+} */
 
 .top {
   /* width: 100%; */

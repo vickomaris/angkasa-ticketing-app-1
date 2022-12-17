@@ -9,6 +9,7 @@ import icArrowBlue from '../../assets/arrow.svg'
 import icFlight from '../../assets/icOneway.svg'
 import icRound from '../../assets/icRoundtrip.svg'
 import icArrSearch from '../../assets/icarrowsearch.svg'
+import picBali from '../../assets/bali.jpg'
 
 // Swiper js carousel
 import { Swiper, SwiperSlide } from 'swiper/react';
@@ -130,6 +131,7 @@ const Home = () => {
           <div className={styles.cardGrid}>
             <Link to='' className={styles.card} >
               <div className={styles.cardBackground}>
+                {/* <img src={picBali} alt="" /> */}
                 <div className={styles.cardContent}>
                   <p className={styles.cardCategory}>Bali</p>
                   <h3 className={styles.cardHeading}>Indonesia</h3>
@@ -139,7 +141,7 @@ const Home = () => {
               </div>
             </Link>
             <Link to='' className={styles.card} href="#">
-              <div className={styles.cardBackground}>
+              <div className={styles.cardBackground2}>
                 <div className={styles.cardContent}>
                   <p className={styles.cardCategory}>Tokyo</p>
                   <h3 className={styles.cardHeading}>Japan</h3>
@@ -149,7 +151,7 @@ const Home = () => {
               </div>
             </Link>
             <Link to='' className={styles.card} href="#">
-              <div className={styles.cardBackground}>
+              <div className={styles.cardBackground3}>
                 <div className={styles.cardContent}>
                   <p className={styles.cardCategory}>Sidney</p>
                   <h3 className={styles.cardHeading}>Australia</h3>
@@ -160,10 +162,10 @@ const Home = () => {
             </Link>
 
             <Link className={styles.card} href="#">
-              <div className={styles.cardBackground}>
+              <div className={styles.cardBackground4}>
                 <div className={styles.cardContent}>
-                  <p className={styles.cardCategory}>Beijing</p>
-                  <h3 className={styles.cardHeading}>China</h3>
+                  <p className={styles.cardCategory}>Eiffel Paris</p>
+                  <h3 className={styles.cardHeading}>France</h3>
                   <h5 className={styles.al}>34 Airlines</h5>
                   <h4 className={styles.fk}>From $400</h4>
                 </div>
@@ -171,10 +173,10 @@ const Home = () => {
             </Link>
 
             <Link className={styles.card} href="#">
-              <div className={styles.cardBackground}>
+              <div className={styles.cardBackground5}>
                 <div className={styles.cardContent}>
-                  <p className={styles.cardCategory}>Jambi</p>
-                  <h3 className={styles.cardHeading}>Indonesia</h3>
+                  <p className={styles.cardCategory}>Barcelona</p>
+                  <h3 className={styles.cardHeading}>Spain</h3>
                   <h5 className={styles.al}>100 Airlines</h5>
                   <h4 className={styles.fk}>From $1000</h4>
                 </div>
@@ -196,13 +198,13 @@ const Home = () => {
                     <div className={styles.place}>
                       <img src={require('../../assets/bali.jpg')} alt="" />
                     </div>
-                    <p>paris</p>
+                    <p>BALI</p>
                   </SwiperSlide>
                   <SwiperSlide>
                     <div className={styles.place}>
                       <img src={require('../../assets/paris.jpg')} alt="" />
                     </div>
-                    <p>bali</p>
+                    <p>PARIS</p>
                   </SwiperSlide>
                   <SwiperSlide>
                     <div className={styles.place}>
