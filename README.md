@@ -1,6 +1,6 @@
 # angkasa-ticketing-app
 <div align="center"><img src="https://github.com/ainurcoding/angkasa-ticketing-app/blob/master/src/assets/logo.svg" height="50" width="50"/></div>
-<div align='center'><a href='https://github.com/ainurcoding/angkasa-ticketing-api'> >>Visit backend repository<< </a></div>
+<div align='center'><a href='https://github.com/vickomaris/angkasa-ticketing-api'> >>Visit backend repository<< </a></div>
 <hr />
 
 ### Description
